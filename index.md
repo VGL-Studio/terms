@@ -10,3 +10,7 @@ permalink: /
 
 - [Privacy Policy](/terms/diy-wallpaper/privacy)
 - [Terms of Service](/terms/diy-wallpaper/terms)
+
+## Trending Clicker
+
+- [Privacy Policy](/terms/trending-clicker/privacy)
