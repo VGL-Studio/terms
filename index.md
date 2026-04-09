@@ -14,3 +14,7 @@ permalink: /
 ## Trending Clicker
 
 - [Privacy Policy](/terms/trending-clicker/privacy)
+
+## BoomTap: 2Player
+
+- [Privacy Policy](/terms/boomtap-2player/privacy)
