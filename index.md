@@ -18,3 +18,8 @@ permalink: /
 ## BoomTap: 2Player
 
 - [Privacy Policy](/terms/boomtap-2player/privacy)
+
+## Hand Control
+
+- [Privacy Policy](/terms/hand-control/privacy)
+- [Terms of Service](/terms/hand-control/terms)
