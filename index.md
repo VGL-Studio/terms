@@ -6,6 +6,11 @@ permalink: /
 
 # VGL Studio - Terms & Policies
 
+## Cat Translator
+
+- [Privacy Policy](/terms/cat-translator/privacy)
+- [Terms of Service](/terms/cat-translator/terms)
+
 ## DIY Wallpaper Maker Gallery
 
 - [Privacy Policy](/terms/diy-wallpaper/privacy)

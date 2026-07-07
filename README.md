@@ -7,6 +7,7 @@ Privacy Policy and Terms of Service pages for VGL Studio apps, hosted on GitHub 
 ## Privacy Policy URLs (copy & paste into store consoles)
 
 ```
+https://vgl-studio.github.io/terms/cat-translator/privacy
 https://vgl-studio.github.io/terms/diy-wallpaper/privacy
 https://vgl-studio.github.io/terms/trending-clicker/privacy
 https://vgl-studio.github.io/terms/boomtap-2player/privacy
@@ -17,6 +18,7 @@ https://vgl-studio.github.io/terms/hand-control/privacy
 
 | App | Privacy Policy | Terms of Service |
 |-----|----------------|------------------|
+| Cat Translator | https://vgl-studio.github.io/terms/cat-translator/privacy | https://vgl-studio.github.io/terms/cat-translator/terms |
 | Wallpaper Maker: DIY Collage | https://vgl-studio.github.io/terms/diy-wallpaper/privacy | https://vgl-studio.github.io/terms/diy-wallpaper/terms |
 | Trending Clicker | https://vgl-studio.github.io/terms/trending-clicker/privacy | — |
 | BoomTap: 2Player | https://vgl-studio.github.io/terms/boomtap-2player/privacy | — |
