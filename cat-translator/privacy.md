@@ -6,7 +6,7 @@ permalink: /cat-translator/privacy
 
 # Privacy Policy
 
-**Last updated: July 7, 2026**
+**Last updated: July 13, 2026**
 
 VGL Studio ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Cat Translator mobile application ("App"). This App is provided as a free service and is intended purely for entertainment.
 
@@ -18,17 +18,17 @@ Your audio is recorded and analyzed **in real time entirely on your device**. Th
 
 ## Camera and Photos
 
-Cat Translator lets you add a photo for each cat profile you create. You may either take a new photo with your device camera or choose an existing image from your gallery. Camera access is optional and is used **only** when you actively choose to take a photo.
+Cat Translator lets you add photos to the cat profiles you create — both a profile picture and a personal photo album for each cat. You may either take a new photo with your device camera or select one or more existing images through your device's photo picker. Camera and photo access are optional and are used **only** when you actively choose to add a photo.
 
-Any photo you select is copied and stored **locally on your device** for use inside the App. We do not upload, collect, or transmit your photos to our servers.
+Any photo you add is copied and stored **locally on your device, in the App's private storage**, so it can appear in your cat's profile and album. We do **not** upload, collect, or transmit your photos to our servers or to any third party.
 
 ## Saving Images to Your Device
 
-The App includes a built-in gallery of cat pictures that are bundled with the App. When you choose to save one of these pictures, it is written to your device's media storage. On older Android versions (Android 9 and below), this requires storage permission. We do not access, read, or collect any other files on your device.
+The App includes a built-in gallery of cat pictures that are bundled with the App, and it also lets you save pictures to your device. When you choose to save a picture — whether a bundled cat picture or one of your own photos — it is written to your device's shared media storage (your gallery) **at your request**. On older Android versions (Android 9 and below), this requires storage permission. We do not access, read, or collect any other files on your device.
 
 ## Your Content
 
-Cat profiles, translation history, and any images you save or create with the App are stored **locally on your device**. You own and control this content. Any sharing happens only when you actively choose to share it through another app on your device.
+Cat profiles, the photo album you build for each cat, saved conversations, and any images you save or create with the App are stored **locally on your device**. You own and control this content. You can delete any photo from within the App, and deleting a photo — or deleting the cat profile it belongs to — permanently removes the corresponding file from the App's storage on your device. Any sharing happens only when you actively choose to share it through another app on your device.
 
 ## Information We Collect
 
@@ -80,7 +80,7 @@ We retain collected data for as long as you use the App and for a reasonable tim
 
 ## Your Rights and Choices
 
-You can opt out of all data collection by uninstalling the App. You may also reset or delete your Advertising ID through your device settings. To remove content stored inside the App (such as cat profiles or history), you can delete it within the App or clear the App's data. If you wish to request deletion of your data, please contact us at: [vgldream01@gmail.com](mailto:vgldream01@gmail.com)
+You can opt out of all data collection by uninstalling the App; because your in-app photos and other content are stored only in the App's private storage, uninstalling also removes them. You may also reset or delete your Advertising ID through your device settings. To remove content stored inside the App (such as cat profiles, photos, or saved conversations), you can delete it within the App or clear the App's data. If you wish to request deletion of your data, please contact us at: [vgldream01@gmail.com](mailto:vgldream01@gmail.com)
 
 ## Children's Privacy
 
